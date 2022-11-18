@@ -15,7 +15,7 @@ toc_label: "时事"
 
 |||
 |:--:|:--:|
-|![](/assets/images/honghefabu.jpg)|![](/assets/images/renminyiyuan.jpg)|
+|![]({{ site.url }}{{ site.baseurl }}/assets/images/honghefabu.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/images/renminyiyuan.jpg)|
 |云南红河发布|个旧市人民医院|
 
 ## 媒体日报
@@ -30,4 +30,4 @@ toc_label: "时事"
 ---
 **看看包家庄在中国的哪个位置？？？**
 
-![](/assets/images/zhongguoditu.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/zhongguoditu.jpg)

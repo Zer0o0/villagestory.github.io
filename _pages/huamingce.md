@@ -14,17 +14,17 @@ toc_label: "名册"
 
 |||||
 |--|--|--|--|
-|![](/assets/images/touxiang_nanx.jpg)|xxx|![](/assets/images/touxiang_nvx.jpg)|xxx|
+|![]({{ site.url }}{{ site.baseurl }}/assets/images/touxiang_nanx.jpg)|xxx|![]({{ site.url }}{{ site.baseurl }}/assets/images/touxiang_nvx.jpg)|xxx|
 
 ### - 书记
 
 |||||
 |--|--|--|--|
-|![](/assets/images/touxiang_nanx.jpg)|xxx|![](/assets/images/touxiang_nvx.jpg)|xxx|
+|![]({{ site.url }}{{ site.baseurl }}/assets/images/touxiang_nanx.jpg)|xxx|![]({{ site.url }}{{ site.baseurl }}/assets/images/touxiang_nvx.jpg)|xxx|
 
 ### - 委员
 
-|![](/assets/images/touxiang_nanx.jpg)|xxx|![](/assets/images/touxiang_nvx.jpg)|xxx|
+|![]({{ site.url }}{{ site.baseurl }}/assets/images/touxiang_nanx.jpg)|xxx|![]({{ site.url }}{{ site.baseurl }}/assets/images/touxiang_nvx.jpg)|xxx|
 
 ## 村民
 

@@ -11,19 +11,19 @@ tags:
 节假日不知道去哪休闲？看看红河州内有没有心怡的景点🛫🛫🛫
 
 ### 个旧市
-![](/assets/images/honghelvyou/gejiu.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/gejiu.jpg)
 ### 蒙自市
-![](/assets/images/honghelvyou/mengzi.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/mengzi.jpg)
 ### 开远市
-![](/assets/images/honghelvyou/kaiyuan.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/kaiyuan.jpg)
 ### 弥勒市
-![](/assets/images/honghelvyou/mile.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/mile.jpg)
 ### 建水县
-![](/assets/images/honghelvyou/jianshui.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/jianshui.jpg)
 ### 石屏县
-![](/assets/images/honghelvyou/shiping.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/shiping.jpg)
 ### 元阳县
-![](/assets/images/honghelvyou/yuanyang.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/yuanyang.jpg)
 ### 泸西县
 
 ### 红河县
@@ -31,7 +31,7 @@ tags:
 ### 绿春县
 
 ### 屏边苗族自治县
-![](/assets/images/honghelvyou/pingbian.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/pingbian.jpg)
 ### 金平苗族瑶族傣族自治县
 
 ### 河口瑶族自治县
@@ -40,7 +40,7 @@ tags:
 
 **红河州地图**
 
-![](/assets/images/honghelvyou/honghe_jingdian.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/honghe_jingdian.jpg)
 
 ---
 
