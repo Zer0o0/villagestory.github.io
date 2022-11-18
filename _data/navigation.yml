@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "邻里见闻"
+    url: "/news/"
+  - title: "公示公告"
+    url: "/gonggao/"
+  - title: "时事政策"
+    url: "/shizheng/"
+  - title: "好好学习"
+    url: "/xuexi/"
+  - title: "花名册"
+    url: "/huamingce/"
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
