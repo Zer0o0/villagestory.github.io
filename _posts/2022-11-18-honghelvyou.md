@@ -11,19 +11,33 @@ tags:
 节假日不知道去哪休闲？看看红河州内有没有心怡的景点🛫🛫🛫
 
 ### 个旧市
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/gejiu.jpg)
+
 ### 蒙自市
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/mengzi.jpg)
+
 ### 开远市
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/kaiyuan.jpg)
+
 ### 弥勒市
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/mile.jpg)
+
 ### 建水县
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/jianshui.jpg)
+
 ### 石屏县
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/shiping.jpg)
+
 ### 元阳县
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/yuanyang.jpg)
+
 ### 泸西县
 
 ### 红河县
@@ -31,7 +45,9 @@ tags:
 ### 绿春县
 
 ### 屏边苗族自治县
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/pingbian.jpg)
+
 ### 金平苗族瑶族傣族自治县
 
 ### 河口瑶族自治县
@@ -39,11 +55,9 @@ tags:
 ---
 
 **红河州地图**
-
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/honghelvyou/honghe_jingdian.jpg)
 
 ---
 
 *参考*  
-
 [*马蜂窝*](https://www.mafengwo.cn/)

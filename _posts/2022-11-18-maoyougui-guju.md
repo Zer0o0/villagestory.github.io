@@ -5,6 +5,7 @@ categories:
   - culture
 tags:
   - 建筑
+  - 人物
 ---
 
 ### 毛友桂故居
@@ -23,7 +24,6 @@ tags:
 
 ---
 
-*参考*
-
+*参考*  
 [*《个旧市3处文保单位公布为不可移动革命文物》-个旧市人民政府*](http://www.gj.hh.gov.cn/zfxxgk/fdzdgknr/zdlyxxgk/lysc/202101/t20210126_495394.html)  
 [*《抗日航空烈士》-人民网*](http://cpc.people.com.cn/n/2014/0922/c87228-25710523.html)
