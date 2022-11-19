@@ -2,7 +2,7 @@
 layout: single
 permalink: /gonggao/
 title: "包家庄村务信息公开"
-excerpt: ""
+excerpt: "团结奋斗 共建美好家乡"
 
 toc: true
 toc_label: "公告栏"
