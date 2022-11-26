@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "包家庄村"
   avatar           : "/assets/images/baojiazhuang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "讲述关于家乡的故事: 包家庄村隶属于云南省红河州个旧市鸡街镇, 地处鸡街镇南边, 距鸡街镇政府所在地13公里, 距市区15公里, 交通方便。全村国土面积5.65平方公里, 海拔1420米, 年平均气温18℃, 年降水量1000毫米左右, 适合种植粮食、蔬菜等农作物。农民收入主要以种植业、养殖业为主。"
+  bio              : "包家庄村隶属于云南省红河州个旧市鸡街镇, 地处鸡街镇南边, 距鸡街镇政府所在地13公里, 距市区15公里, 交通方便。全村国土面积5.65平方公里, 海拔1420米, 年平均气温18℃, 年降水量1000毫米左右, 适合种植粮食、蔬菜等农作物。农民收入主要以种植业、养殖业为主。"
   # email            : ""
   location         : "云南省红河州个旧市"
   links:
@@ -297,5 +297,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: # true
       related: true
